@@ -3,7 +3,7 @@ GUI h
 DELAY 150
 GUI SPACE
 DELAY 450
-STRING https://twitter.com/IrinaKumai/status/1591430766101434369
+STRING https://www.instagram.com/p/CGvaWd-lYOG/?igsh=MzRlODBiNWFlZA%3D%3D
 DELAY 250
 ENTER
 DELAY 4500
