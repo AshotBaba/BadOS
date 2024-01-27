@@ -9,11 +9,11 @@ ENTER
 DELAY 250
 GUI l
 DELAY 1200
-STRING hey bro just need a favor can you
+STRING Hey im so faded rn lol
 DELAY 900
 ENTER
 DELAY 600
-STRING gimme your FIRST name and LAST name
+STRING Wanna touch daddies dick?
 DELAY 350
 TAB
 DELAY 200
